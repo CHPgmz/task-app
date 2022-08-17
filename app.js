@@ -61,5 +61,7 @@ function deleteTask(title) {
   getTask();
   //console.log(tasks[0]);
 }
-
+const hola = ["Hola", 
+"Hola"
+];
 getTask();
